@@ -1,0 +1,11 @@
+open("/home/paulooliveira/pessoal/igti/aulas/codigos/computer-vision-aim/im01.png");
+selectWindow("im01.png");
+run("Statistical Region Merging", "q=25 showaverages");
+setAutoThreshold("Default dark");
+//run("Threshold...");
+setThreshold(151.1876, 1000000000000000000000000000000.0000);
+setOption("BlackBackground", true);
+run("Convert to Mask");
+run("Invert");
+run("Analyze Particles...", "clear");
+run("Summarize");

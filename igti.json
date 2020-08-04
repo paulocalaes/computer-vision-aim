@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eco-silicon-285021",
+  "private_key_id": "b092269cbf8bc6d21916d550c4e7d005543c1a95",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDY9c/nizvk3BwK\nCkZlZUmi1J2mAUlr7pzyKZ2WRXlmU44a3dv933zwvzqO4nTnJmTyUxY1iP2sP85Z\nPyhtVzJbpkPjCItqhjhR/P+67Ey78UtOAjLJzITO09B3rUcWLSfrR3BBsOLT+Jvu\nqllyLJvbhmKQhAD2FZbsv3cxnqumKC5ggPNUUaVb7OURy2hYStDOqr5EBzh5W6cH\n7Hsa3GXwM0Xz18iGUdF3kdHN4q6ehMWchHHIZy1bLjO6oolZvb9NpI7R+8QTfPwW\nGHTyRVUVnRvujJcfYXZ1n5HWmP8j6aQA7RAk6IcohEzjUYhTdCNeIfFcifRIDlCj\nI3buGZ5ZAgMBAAECggEAZ4oHygxcbP/OMcxtg/4ughLNmWeLzoJ1S+woVIqbQQYn\nDxNJ5YI+cfYQ0BeqipV8H1kfhDT4OrfIljbZ6DRwx+Q1CagOQKwFPLtsn5wdkqO4\nuGW8Lyn3R202U6bSAfdS0amqHO95kIdYgzGwthgr2Tvs1eLpQodTG3DURU3fxM8O\n5/VpZGfsI9QSMSJpfWksufZHidehO7zZ8VWlKgf6ekTRYXblXoIoHjJz20YiyWyp\nrPLm9rssNmxISjqRK2OPxYTkA+BwDm7dLKSaICuRRUlZLgixXi23ook8KndBeWtR\n5Xlk5Y75kZ5bCuTMybpCzX8v/Bxk2PFp9TUwkZ5HMQKBgQD5MvkDEmeadtTs2JJG\n+UPe9GH18djXMM+6SoSgQj+d9YiR/8rBvhGFbpJKz5GonTg4QDvcX+NHYQ4fmqRI\n44+xBKCyb6UaJ9Yg8R4d85wXX7r7eESIAY/Kkqkbo8S8ajdWFF4UJJiAmO/5N2Ig\njOB7YZQW3rsVRxlAgc2PEqb3wwKBgQDe4ZpDJGdvaTvN4T5psm3EFpF0Z8wAaJ2O\n63FL5xMRwil6YFrkwMpHHwL7JLzjLClD2CMYnq8GzY+jDPKJGO2g/NrKmYDE17iz\n9THQEFPGoBbaG3F7IzItJR/sEVcPewYxGw5kWsbAMjQQR+nXkI/zwCnzBR9fb07Q\nflOIqCcLswKBgQDM5qOnafe0I2d6g6zrHMQ4y9rMfppcfm8fb2xT1YU3nY849QlD\nesQvYbZ6Oug6q2NxpSdTUaiwpVYWmHHi2PHqjLKRZYls0zqXBYtM92TuNzGo2cAH\n0LjpyOOxrVvzzKZJah/dEiYu/xG6alaOCyf9a0N39pX/reFOkCx0KtMNPwKBgB+d\nQJRlhYZ4FtONL50uggNecCNi1bz5GeA75UYu8LWEJP4GzN3Fuut7qqCVBXXzvaax\n8ch8ObdtUQJ/w6dOseYz95TlUS6aqshb70TkC/4Qly0410/wHh3pNi32B7Nab/Zn\nMBNsDOUWOexVRwYcq06X41tlTp3q2/MW+CJaN6+hAoGAdtfwZIRVuJgLauoO/Kit\nYjRRW7uCgKSM9XD4LuUFuC/0CPZRjXxba8prTEbmj/PziiUCjUxlH6bwPYbk8rXf\nNxxcsxAabIrOc89f7gp1POhV+H/t6QAVLOuN0Q9RvfSkO/Rj2mH+ynsRb620sm3Y\n2U5uRbHahB6HoXcWtZWpFho=\n-----END PRIVATE KEY-----\n",
+  "client_email": "igti-415@eco-silicon-285021.iam.gserviceaccount.com",
+  "client_id": "114350902575940148906",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/igti-415%40eco-silicon-285021.iam.gserviceaccount.com"
+}
